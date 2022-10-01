@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shuyasgnm.losp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shuyasgnm.losp.MyBundle
 
 class MyApplicationService {
 
